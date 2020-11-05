@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+<style type="text/css">
+body{
+ direction:rtl;
+}
+</style>
+### زهره علیقلی پور ،
 
-You can use the [editor on GitHub](https://github.com/zohrehqolipour/rezome/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### اطلاعات شخصی
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
++ نام : زهره
++ نام خانوادگی : ده نمکی
++ ۱۳۷۷/03/25 :تاریخ تولد 
++ دانشجوی مهندسی کامپیوتر
++ موقعیت مکانی : ایران،تهران
++ دانشگاه : پیامنور واحد تهران شمال 
++ ایمیل : zohrehqolipour@gmail.com
++ شماره تماس : 09379669586
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### مهارت ها
 
-```markdown
-Syntax highlighted code block
+---
++ حسابداری مالیاتی
++ ترجمه  
 
-# Header 1
-## Header 2
-### Header 3
+### تحصیلات
 
-- Bulleted
-- List
+---
++ دانشجوی کارشناسی مهندسی کامپیوتر 
 
-1. Numbered
-2. List
+### علایق
 
-**Bold** and _Italic_ and `Code` text
+---
++ برنامه نویسی جاوا 
+ 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### سوابق کاری
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zohrehqolipour/rezome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
++ حسابداری
